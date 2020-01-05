@@ -17,4 +17,4 @@ return channel.sendEmbed(Embed11)
 
 
 
-client.login("NjE1NjU3NTI4OTQ4MTYyNTgw.XhIdog.3yp4K1LF40YHJ15b4ROdQ6v5b4Q");
+client.login("NjE1NjU3NTI4OTQ4MTYyNTgw.XhI0XA.2CJCW71wl5zsQPzLDIOuwOWrKAE");
